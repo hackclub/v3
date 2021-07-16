@@ -15,7 +15,7 @@
     "@hackclub/meta": "1.1.0",
     "@hackclub/theme": "^0.3.3",
     "@mdx-js/loader": "^1.6.22",
-    "@next/mdx": "^11.0.0",
+    "@next/mdx": "^11.0.1",
     "airtable-plus": "^1.0.4",
     "globby": "^11.0.4",
     "lodash": "^4.17.21",
